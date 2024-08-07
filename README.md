@@ -1,0 +1,1 @@
+My attempt to automate the game TEMU. A mobile, single game, boring farming game
